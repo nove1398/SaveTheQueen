@@ -1,0 +1,16 @@
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\bin\Debug\net6.0\ServerV2.exe
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\bin\Debug\net6.0\ServerV2.deps.json
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\bin\Debug\net6.0\ServerV2.runtimeconfig.json
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\bin\Debug\net6.0\ServerV2.dll
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\bin\Debug\net6.0\ref\ServerV2.dll
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\bin\Debug\net6.0\ServerV2.pdb
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\obj\Debug\net6.0\ServerV2.GlobalUsings.g.cs
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\obj\Debug\net6.0\ServerV2.csproj.AssemblyReference.cache
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\obj\Debug\net6.0\ServerV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\obj\Debug\net6.0\ServerV2.AssemblyInfoInputs.cache
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\obj\Debug\net6.0\ServerV2.AssemblyInfo.cs
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\obj\Debug\net6.0\ServerV2.csproj.CoreCompileInputs.cache
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\obj\Debug\net6.0\ServerV2.dll
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\obj\Debug\net6.0\ref\ServerV2.dll
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\obj\Debug\net6.0\ServerV2.pdb
+D:\Web Docs\C#\SpotTheQueen\QueenSpotter\ServerV2\obj\Debug\net6.0\ServerV2.genruntimeconfig.cache
